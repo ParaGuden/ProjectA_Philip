@@ -1,0 +1,7 @@
+/home/philip/Datalogi/Datalogi/Linear_Algebra/Projekt A/ProjectA/bin/Debug/ProjectA.exe
+/home/philip/Datalogi/Datalogi/Linear_Algebra/Projekt A/ProjectA/bin/Debug/ProjectA.pdb
+/home/philip/Datalogi/Datalogi/Linear_Algebra/Projekt A/ProjectA/bin/Debug/System.dll
+/home/philip/Datalogi/Datalogi/Linear_Algebra/Projekt A/ProjectA/obj/Debug/ProjectA.csprojResolveAssemblyReference.cache
+/home/philip/Datalogi/Datalogi/Linear_Algebra/Projekt A/ProjectA/obj/Debug/ProjectA.csproj.CoreCompileInputs.cache
+/home/philip/Datalogi/Datalogi/Linear_Algebra/Projekt A/ProjectA/obj/Debug/ProjectA.exe
+/home/philip/Datalogi/Datalogi/Linear_Algebra/Projekt A/ProjectA/obj/Debug/ProjectA.pdb
